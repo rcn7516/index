@@ -1,0 +1,122 @@
+/*CSS GENERALES*/
+
+body {background-color: #8FBC8F;}
+
+/*SECCION DE ENCABEZADOS*/
+
+.SVG_Logo {
+	position: absolute;
+	left: 2%;
+	top: 5%;
+}
+
+.Encabezado {
+	width: 100%;
+	height: 30%;
+	background-color: #DCDCDC;
+	position: absolute;
+	left: 0%;
+}
+
+.EncabezadoDatospersonales {
+position: absolute;
+left: 10%;
+width: 90%;
+height: 100%;
+}
+
+.Titulo1 {
+	position: absolute;
+	top: 0%;
+	left: 50%;
+	width: 25%;
+}
+.Titulo2 {
+	position: absolute;
+	top: 5%;
+	left: 20%;
+	width: 50%;
+	text-decoration: underline;
+}
+.DatosPersonalesNOMBRE{
+	position: absolute;
+	top: 25%;
+	left: 20%;
+	width: 50%;
+}
+.DatosPersonalesR_NOMBRE{
+	position: absolute;
+	top: 35%;
+	left: 33%;
+	width: 50%;
+}
+.DatosPersonalesFECHA{
+	position: absolute;
+	top: 45%;
+	left: 20%;
+	width: 50%;
+}
+.DatosPersonalesR_FECHA{
+	position: absolute;
+	top: 55%;
+	left: 33%;
+	width: 25%;
+}
+
+/*Seccion cuerpo pagina*/
+
+.Cuerpo {
+	position: absolute;
+	top: 42%;
+}
+
+.informacionPersonal{
+
+	position: absolute;
+	top: 85%;
+
+}
+
+.menu{	
+	position: absolute;
+	top: 35%;
+	height: 2%;
+}
+
+.styloboton{
+  background: #34d979;
+  background-image: -webkit-linear-gradient(top, #34d979, #23a156);
+  background-image: -moz-linear-gradient(top, #34d979, #23a156);
+  background-image: -ms-linear-gradient(top, #34d979, #23a156);
+  background-image: -o-linear-gradient(top, #34d979, #23a156);
+  background-image: linear-gradient(to bottom, #34d979, #23a156);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.styloboton:hover {
+  background: #3ffc3c;
+  background-image: -webkit-linear-gradient(top, #3ffc3c, #32821e);
+  background-image: -moz-linear-gradient(top, #3ffc3c, #32821e);
+  background-image: -ms-linear-gradient(top, #3ffc3c, #32821e);
+  background-image: -o-linear-gradient(top, #3ffc3c, #32821e);
+  background-image: linear-gradient(to bottom, #3ffc3c, #32821e);
+  text-decoration: none;
+}
+
+.PiePagina {
+	position: absolute;
+	top: 125%;
+	left: 35%;
+}
+.Boton1 {
+
+
+}
+.Boton2 {}
